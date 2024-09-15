@@ -1,0 +1,4 @@
+﻿  MacFuscation.c
+C:\Users\Administrator\Desktop\MD\22.MacFuscation\MacFuscation\MacFuscation\MacFuscation.c(27,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\22.MacFuscation\MacFuscation\MacFuscation\MacFuscation.c(19,1): warning C4172: returning address of local variable or temporary : Output
+  MacFuscation.vcxproj -> C:\Users\Administrator\Desktop\MD\22.MacFuscation\MacFuscation\x64\Debug\MacFuscation.exe
